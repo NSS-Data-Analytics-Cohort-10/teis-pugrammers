@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data and teis information
+data/
+teis_info/
+
 # C extensions
 *.so
 
